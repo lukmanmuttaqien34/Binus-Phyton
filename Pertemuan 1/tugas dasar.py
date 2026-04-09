@@ -1,0 +1,5 @@
+print ("lukman")
+print ("malang")
+print ("government")
+print ("indonesia")
+print ("comic book")
